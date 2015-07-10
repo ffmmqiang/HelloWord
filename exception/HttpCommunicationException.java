@@ -33,6 +33,7 @@ public class HttpCommunicationException extends TranFailException {
 	 * Field serialVersionUID.
 	 */
 	private static final long serialVersionUID = 20080710135712L;
+	//private static final long serialVersionUID = 20080710135712L;
 	/**
 	 * 错误代码
 	 */
